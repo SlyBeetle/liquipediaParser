@@ -1,0 +1,20 @@
+F:\Andrei Palcheuski programs\dot NET\liquipediaParser\liquipediaParser\bin\Debug\liquipediaParser.exe.config
+F:\Andrei Palcheuski programs\dot NET\liquipediaParser\liquipediaParser\bin\Debug\liquipediaParser.exe
+F:\Andrei Palcheuski programs\dot NET\liquipediaParser\liquipediaParser\bin\Debug\liquipediaParser.pdb
+F:\Andrei Palcheuski programs\dot NET\liquipediaParser\liquipediaParser\bin\Debug\HtmlAgilityPack.dll
+F:\Andrei Palcheuski programs\dot NET\liquipediaParser\liquipediaParser\bin\Debug\HtmlAgilityPack.pdb
+F:\Andrei Palcheuski programs\dot NET\liquipediaParser\liquipediaParser\bin\Debug\HtmlAgilityPack.xml
+F:\Andrei Palcheuski programs\dot NET\liquipediaParser\liquipediaParser\obj\Debug\liquipediaParser.csproj.CoreCompileInputs.cache
+F:\Andrei Palcheuski programs\dot NET\liquipediaParser\liquipediaParser\obj\Debug\liquipediaParser.exe
+F:\Andrei Palcheuski programs\dot NET\liquipediaParser\liquipediaParser\obj\Debug\liquipediaParser.pdb
+F:\Andrei Palcheuski programs\ММФ\liquipediaParser\liquipediaParser\bin\Debug\liquipediaParser.exe.config
+F:\Andrei Palcheuski programs\ММФ\liquipediaParser\liquipediaParser\bin\Debug\liquipediaParser.exe
+F:\Andrei Palcheuski programs\ММФ\liquipediaParser\liquipediaParser\bin\Debug\liquipediaParser.pdb
+F:\Andrei Palcheuski programs\ММФ\liquipediaParser\liquipediaParser\bin\Debug\HtmlAgilityPack.dll
+F:\Andrei Palcheuski programs\ММФ\liquipediaParser\liquipediaParser\bin\Debug\HtmlAgilityPack.pdb
+F:\Andrei Palcheuski programs\ММФ\liquipediaParser\liquipediaParser\bin\Debug\HtmlAgilityPack.xml
+F:\Andrei Palcheuski programs\ММФ\liquipediaParser\liquipediaParser\obj\Debug\liquipediaParser.csprojAssemblyReference.cache
+F:\Andrei Palcheuski programs\ММФ\liquipediaParser\liquipediaParser\obj\Debug\liquipediaParser.csproj.CoreCompileInputs.cache
+F:\Andrei Palcheuski programs\ММФ\liquipediaParser\liquipediaParser\obj\Debug\liquipediaParser.csproj.CopyComplete
+F:\Andrei Palcheuski programs\ММФ\liquipediaParser\liquipediaParser\obj\Debug\liquipediaParser.exe
+F:\Andrei Palcheuski programs\ММФ\liquipediaParser\liquipediaParser\obj\Debug\liquipediaParser.pdb
